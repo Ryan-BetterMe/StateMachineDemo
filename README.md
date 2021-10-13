@@ -1,4 +1,25 @@
 # State Machine Demo
-In this demo, I use two ways to achieve a state machine.
 
-I take OOP principles in the first and the second is more functional.
+这是一个学习状态机总结的一个小项目。
+
+使用了面向对象的方式和函数式的方式分别实现了一个简单的状态机。
+
+其中使用函数式实现的状态机在具体的项目中被我使用过，效果还可以，这里添加了多线程管理的代码。
+
+
+#### 状态机是什么？
+状态机是一种数学模型，用来表示状态以及状态之间的转换和动作。
+
+我们一般使用的是确定性有限状态机。（即一种状态对于一种输入只能有一种转换规则）。
+
+
+#### 状态机的组成要素？
+
+一个确定性有限状态机有基本的五个组成部分：
+- 输入
+- 状态集
+- 初始状态
+- 结果状态机
+- 转换规则
+
+具体的我写了一些文章来总结在Swift中实现状态机。[链接在这里](https://juejin.cn/post/7011430610942033956#heading-8)
