@@ -25,7 +25,12 @@
 具体的我写了一些文章来总结在Swift中实现状态机。[链接在这里](https://juejin.cn/post/7011430610942033956#heading-8)
  
 #### 1、使用面向对象的方式来实现状态机
+
 ![OOP状态机类图](https://user-images.githubusercontent.com/34939593/137427931-508b1086-761e-40f3-bf4a-4b40d9849010.png)
 
-整体的结构非常简单，具体的流程图如下：
+通过这种方式实现的状态机整体的结构非常简单，具体的流程图如下：
+
+![OOP状态机流程图](https://user-images.githubusercontent.com/34939593/137432120-a9ebb4b1-caa4-4df9-aca5-2554b4b5674f.png)
+
+#### 2、使用面向函数的方式来实现状态机
 
