@@ -23,3 +23,15 @@
 - 转换规则
 
 具体的我写了一些文章来总结在Swift中实现状态机。[链接在这里](https://juejin.cn/post/7011430610942033956#heading-8)
+ 
+#### 1、使用面向对象的方式来实现状态机
+
+![OOP状态机类图](https://user-images.githubusercontent.com/34939593/137427931-508b1086-761e-40f3-bf4a-4b40d9849010.png)
+
+
+#### 2、使用面向函数的方式来实现状态机
+
+![函数式状态机类图](https://user-images.githubusercontent.com/34939593/137701777-fbb814d7-56a1-4f8c-a3f5-d091e333d6f3.png)
+
+#### 3、一个状态机的流程图
+![OOP状态机流程图](https://user-images.githubusercontent.com/34939593/137432120-a9ebb4b1-caa4-4df9-aca5-2554b4b5674f.png)
