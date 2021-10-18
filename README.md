@@ -28,9 +28,10 @@
 
 ![OOP状态机类图](https://user-images.githubusercontent.com/34939593/137427931-508b1086-761e-40f3-bf4a-4b40d9849010.png)
 
-通过这种方式实现的状态机整体的结构非常简单，具体的流程图如下：
-
-![OOP状态机流程图](https://user-images.githubusercontent.com/34939593/137432120-a9ebb4b1-caa4-4df9-aca5-2554b4b5674f.png)
 
 #### 2、使用面向函数的方式来实现状态机
 
+![函数式状态机类图](https://user-images.githubusercontent.com/34939593/137701777-fbb814d7-56a1-4f8c-a3f5-d091e333d6f3.png)
+
+#### 3、一个状态机的流程图
+![OOP状态机流程图](https://user-images.githubusercontent.com/34939593/137432120-a9ebb4b1-caa4-4df9-aca5-2554b4b5674f.png)
